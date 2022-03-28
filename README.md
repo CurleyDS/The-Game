@@ -1,3 +1,5 @@
+# Notice: Deze repository is van mijn vorige opleiding!
+
 # The Game
 Je maakt met behulp van Javascript een toffe game waarin je verschillende keuzes kan maken. Deze game ga je eerst op papier beschrijven en laat hem zien aan een van je docenten voordat je begint met bouwen!
 
